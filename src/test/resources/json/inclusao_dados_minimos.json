@@ -1,0 +1,9 @@
+{
+  "username": "vtest15",
+  "password": "p@ssw0rd",
+  "access_level": {
+    "name": "updater"
+  },
+  "enabled": true,
+  "protected": false
+}
